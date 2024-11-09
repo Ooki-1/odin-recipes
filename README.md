@@ -1,1 +1,2 @@
 # odin-recipes
+In this project, I will be building a basic recipe website for my first real project with the guidance of The Odin Project(TOP). The wesite will consist of a main index page which will have links to a few recipes. The website won't look very pretty, but the project is meant to help "build my HTML chops". This project will be revisited at a later date to stylize it using CSS.
